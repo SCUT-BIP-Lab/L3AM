@@ -16,7 +16,7 @@ ArcFace is one of the most popular loss functions currently, and it has achieved
 
  <div align="center">
  <p align="center">
-  <img src="https://raw.githubusercontent.com/SCUT-BIP-Lab/L3AM/main/img/L3AM_Arc." width="600" />
+  <img src="https://raw.githubusercontent.com/SCUT-BIP-Lab/L3AM/main/img/L3AM_Arc.pdf" width="600" />
  </p>
  </div>  
  Comparisons with ArcFace-based losses on SCUT-DHGA dataset under MG protocol. ArcFace* is the combination of ArcFace and our adaptive margin scheme. L3AM(m=0.4) denotes L3AM loss with a fixed margin penalty $m=0.4$.
@@ -28,7 +28,7 @@ There are also a large number of SOTA losses that are not designed based on ArcF
 
  <div align="center">
  <p align="center">
-  <img src="https://raw.githubusercontent.com/SCUT-BIP-Lab/L3AM/main/img/L3AM_Other." width="600" />
+  <img src="https://raw.githubusercontent.com/SCUT-BIP-Lab/L3AM/main/img/L3AM_Other.pdf" width="600" />
  </p>
  </div>  
 Comparisons with other SOTA losses on SCUT-DHGA dataset under MG protocol. CosFace (also known as AMSoftmax) is the loss function employed in the current SOTA models for hand gesture authentication. 
